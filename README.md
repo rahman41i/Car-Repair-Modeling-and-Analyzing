@@ -47,4 +47,5 @@ This parses every file under `models/bpmn` and `models/pnml` and prints particip
 ## Author
 
 Rahman Aliyev — Master's student, Data Science and Business Informatics, University of Pisa
+
 Supervisor: Prof. Roberto Bruni
