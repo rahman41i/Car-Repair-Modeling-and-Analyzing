@@ -1,11 +1,7 @@
 """
 Car Repair Process Analysis — BPMN & Petri Net (PNML) structural reader.
 
-Scans the models/ directory for .bpmn and .pnml files and prints a structural
-summary for each: participants/activities for BPMN, and places/transitions
-for Petri nets. Originally developed and run as a Kaggle notebook
-(https://www.kaggle.com/rahman4li/business-process-analysis-and-modeling-car-repair);
-adapted here to run locally against the models/ folder in this repo.
+Scans the models/ directory for .bpmn and .pnml files and prints a structural summary for each: participants/activities for BPMN, and places/transitions for Petri nets. Originally developed and run as a Kaggle notebook (https://www.kaggle.com/rahman4li/business-process-analysis-and-modeling-car-repair); adapted here to run locally against the models/ folder in this repo.
 
 Usage:
     pip install pandas
